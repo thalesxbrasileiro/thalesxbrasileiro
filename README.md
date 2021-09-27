@@ -1,9 +1,5 @@
 ### Olá! Eu sou Thales Brasileiro 👋
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Atualmente estou estudando Java
-- 📫 Contate-me no email: thalesxbrasileiro@gmail.com
-
 <div align="center">
   <a href="https://github.com/thalesxbrasileiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesxbrasileiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
