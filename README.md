@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 
 ### Back-end
 
-[![Back-end Skills](https://skillicons.dev/icons?i=python,java,spring,idea,eclipse,postgres,mysql,postman,git,github,docker,jenkins)](https://skillicons.dev)
+[![Back-end Skills](https://skillicons.dev/icons?i=python,java,spring,idea,eclipse,postgres,mysql,postman,git,github,docker,vercel,jenkins)](https://skillicons.dev)
 
 <br/>
 <div align="center">
