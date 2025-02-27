@@ -1,6 +1,6 @@
 ## Olá! Eu sou Thales Brasileiro 👨‍💻👋
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novos desafios e aprendizados. Tenho experiência em várias linguagens de programação e tecnologias, e gosto de trabalhar em projetos voltados para desenvolvimento web, ciência de dados e inteligência artificial.
+Sou um desenvolvedor apaixonado por tecnologia, com experiência em diversas linguagens e ferramentas. Tenho foco em desenvolvimento backend e quality assurance, buscando sempre novos desafios e oportunidades para aprimorar minhas habilidades e entregar soluções de alta qualidade.
 
 ## ⚒ Stack 
 
