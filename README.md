@@ -1,8 +1,8 @@
 # Olá, eu sou Thales Brasileiro 👋👨‍💻☕
 
-Sou um **desenvolvedor apaixonado por tecnologia** com **experiência em desenvolvimento backend** e **quality assurance**. Sempre em busca de novos desafios, estou focado em entregar **soluções robustas** e **eficientes** para otimizar resultados e melhorar a experiência dos usuários. Minha missão é transformar ideias em soluções inovadoras e de alta qualidade.
+Sou um **desenvolvedor apaixonado por tecnologia**, com **experiência em backend** e **quality assurance**. Sempre em busca de novos desafios, meu objetivo é criar **soluções robustas e eficientes** que otimizem processos e melhorem a experiência do usuário. Transformo ideias em resultados inovadores e de alta qualidade!
 
-## ⚒ Tecnologias e Ferramentas
+## ⚒️ Tecnologias e Ferramentas
 
 ### 🌐 **Front-end**
 [![Front-end Skills](https://skillicons.dev/icons?i=html,css,js,angular,figma)](https://skillicons.dev)
@@ -15,6 +15,8 @@ Sou um **desenvolvedor apaixonado por tecnologia** com **experiência em desenvo
 
 ## 📈 Meus Status no GitHub
 
+Aqui estão alguns dos meus destaques no GitHub!
+
 <div align="center">
   <a href="https://github.com/thalesxbrasileiro">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thalesxbrasileiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,9 +24,9 @@ Sou um **desenvolvedor apaixonado por tecnologia** com **experiência em desenvo
   </a>
 </div>
 
-## 🌐 Conecte-se Comigo
+## 🌐 Vamos Conectar?
 
-Sempre aberto para novos desafios e oportunidades. Vamos conversar sobre projetos, tecnologia ou qualquer outra ideia interessante!
+Estou sempre aberto a novos desafios e colaborações. Vamos conversar sobre projetos, compartilhar ideias ou só trocar uma ideia sobre tecnologia!
 
 <div align="center">
   <a href="https://www.instagram.com/thalesbrasileiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,3 +34,7 @@ Sempre aberto para novos desafios e oportunidades. Vamos conversar sobre projeto
   <a href="mailto:thalesxbrasileiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thales-brasileiro-8714171bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+---
+
+**Vamos juntos fazer a diferença no mundo da tecnologia! 🚀**
